@@ -1,0 +1,229 @@
+body {
+    font-family: 'Comfortaa';
+    margin: 0;
+
+}
+
+.flexible-container {}
+
+.top-container {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    text-align: center;
+    padding: 300px 0;
+}
+
+.top-container-text {
+    margin: 0 20% 0 20%;
+}
+
+.top-container-text h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.top-container-text p {
+    font-size: 20px;
+    color: white;
+    margin: 0 0 100px 0;
+}
+
+p {
+    color: gray;
+}
+
+.donate-link {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 15px 15px;
+    font-weight: 700;
+    border: 0;
+}
+
+.second-container {
+    text-align: center;
+    margin: 0 20% 0 20%;
+}
+
+.second-flexible-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.second-container h2 {
+    margin: 15% 0 0 0;
+}
+
+.second-container p {
+    margin: 7% 0 10% 0;
+}
+
+.donation-quantity {
+    background-color: lightgray;
+    padding: 30px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 0;
+}
+
+.selected-button {
+    background-color: rgb(245, 210, 210);
+    border: 2px solid tomato;
+}
+
+.input-quantity {
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin: 10% 15%;
+}
+
+.third-container {
+    text-align: center;
+    margin-bottom: 150px;
+    margin-top: 300px;
+}
+
+.third-container-text h2 {
+    margin: 20px 0 0 0;
+}
+
+.third-container-text p {
+    margin: 5px 0 5px 0;
+}
+
+.one-third-width {
+    margin: 0 150px 0 150px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.left-item {
+    background-color: lightcyan;
+    border-radius: 5px;
+    padding: 50px 20px;
+    margin: 10px;
+}
+
+.middle-item {
+    background-color: lightcoral;
+    border-radius: 5px;
+    padding: 50px 20px;
+    margin: 10px;
+}
+
+.right-item {
+    background-color: lightgoldenrodyellow;
+    border-radius: 5px;
+    padding: 50px 20px;
+    margin: 10px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.fourth-container {
+    margin: 25% 0 0 0;
+
+}
+
+.fourth-container-half-width {
+    width: 50%;
+    padding-left: 7%;
+}
+
+.fourth-container-half-width img {
+    width: 70%;
+}
+
+.fifth-container {
+    margin: 25% 0 0 0;
+}
+
+.fifth-container-half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.fifth-container-half-width img {
+    width: 60%;
+    margin-left: 10%;
+}
+
+.fifth-container-text {
+    margin-right: 25%;
+}
+
+.contribute-button {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 15px 15px;
+    font-weight: 700;
+    border: 0;
+}
+
+
+.sixth-container {
+    text-align: center;
+    margin: 20% 20% 0 20%;
+
+}
+
+.email-subscribtion {
+    background-color: lightgoldenrodyellow;
+    height: 200px;
+    margin: 80px 20px;
+}
+
+.email-subscribtion input {
+    display: inline;
+    width: 30%;
+    padding: 15px 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 80px;
+}
+
+
+
+.bottom-container {
+    background-color: black;
+    text-align: center;
+    width: 100%;
+}
+
+.bottom-container {
+    width: 100%;
+    color: black
+}
+
+.bottom h3 {
+    font-family: 'Lobster Two';
+    color: tomato;
+    padding-top: 30px;
+}
+
+.bottom p {
+    font-size: small;
+    color: white;
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
